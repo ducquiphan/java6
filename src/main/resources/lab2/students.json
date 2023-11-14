@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Phan Quí Đức",
+    "gender": true,
+    "mark": 7.5,
+    "contact":{
+      "email": "phanquiduc@gmail.com",
+      "phone": "0703032483",
+      "address": "Ho Chi Minh"
+    },
+    "subjects": ["WEB205","WEB206"]
+  },
+  {
+    "name": "Phan Quý Đức",
+    "gender": true,
+    "mark": 7.5,
+    "contact":{
+      "email": "phanquiduc102@gmail.com",
+      "phone": "0703032000",
+      "address": "Ho Chi Minh"
+    },
+    "subjects": ["WEB205","WEB206"]
+  },
+  {
+    "name": "Đức Phan",
+    "gender": false,
+    "mark": 7.5,
+    "contact":{
+      "email": "phanquiduc123@gmail.com",
+      "phone": "0703032400",
+      "address": "Ho Chi Minh"
+    },
+    "subjects": ["WEB205","WEB206"]
+  }
+
+
+]
