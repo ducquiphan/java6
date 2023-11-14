@@ -1,0 +1,14 @@
+{
+  "name": "Phan Quí Đức",
+  "gender": true,
+  "mark": 7.5,
+  "contact": {
+    "email": "phanquiduc@gmail.com",
+    "phone": "0703032483",
+    "address": "Ho Chi Minh"
+  },
+  "subjects": [
+    "WEB205",
+    "WEB206"
+  ]
+}

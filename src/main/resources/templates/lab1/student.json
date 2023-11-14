@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Phan Quí Đức",
+    "gender": true,
+    "marks": 7.5,
+    "contact":{
+      "email": "phanquiduc@gmail.com",
+      "phone": "0703032483"
+    },
+    "subjects": ["WEB205","WEB206"]
+  },
+  {
+    "name": "Phan Quý Đức",
+    "gender": true,
+    "marks": 7.5,
+    "contact":{
+      "email": "phanquiduc102@gmail.com",
+      "phone": "0703032000"
+    },
+    "subjects": ["WEB205","WEB206"]
+  },
+  {
+    "name": "Đức Phan",
+    "gender": false,
+    "marks": 7.5,
+    "contact":{
+      "email": "phanquiduc123@gmail.com",
+      "phone": "0703032400"
+    },
+    "subjects": ["WEB205","WEB206"]
+  }
+
+
+]
